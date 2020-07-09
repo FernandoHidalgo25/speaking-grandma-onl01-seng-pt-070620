@@ -5,7 +5,7 @@ def speak_to_grandma(greeting)
 end
 
 def speak_to_grandma(greeting)
-  if greeting == "Hi nana, how are you?"
+
     "HUH?! SPEAK UP, SONNY!"
   end
 end
