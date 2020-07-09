@@ -1,5 +1,5 @@
-def speak_to_grandma(greeting)
-  if greeting == "I LOVE YOU GRANDMA!"
+def speak_to_grandma(response)
+  if response == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
   end
 end
