@@ -4,8 +4,8 @@ def speak_to_grandma(greeting)
   end
 end
 
-def speak_to_grandma(greeting)
-
+def speak_to_grandma(response)
+if response != response.upcase
     "HUH?! SPEAK UP, SONNY!"
   end
 end
