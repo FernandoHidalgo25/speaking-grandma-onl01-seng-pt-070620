@@ -1,7 +1,12 @@
-
 def speak_to_grandma(greeting)
   if greeting == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
+  end
+end
+
+def speak_to_grandma(greeting)
+  if greeting == "Hi nana, how are you?"
+    "HUH?! SPEAK UP, SONNY!"
   end
 end
 
